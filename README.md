@@ -53,6 +53,6 @@ metamask网络配置：
 
 - 客户购买的珠宝需要验证tokenid 有没有前5个event
 
-- create Certificate作为采矿公司角色的功能
+- create Certificate作为采矿公司角色的功能 
 
 
